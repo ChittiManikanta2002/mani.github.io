@@ -50,7 +50,7 @@
 
 - **C**
 - **Python**
-- **OOP (Object-Oriented Programming)**
+- **OOPS (Object-Oriented Programming)**
 - **SQL**
 - **Problem Solving**
 - **Data Structures**
